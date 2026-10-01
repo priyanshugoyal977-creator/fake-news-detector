@@ -51,3 +51,13 @@ streamlit run app.py
 
 ## Limitations
 This model identifies patterns in a labeled dataset. It does not independently verify claims against trusted sources, and its predictions may be incorrect.
+## 📸 Application Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### News Analysis
+![News Analysis](screenshots/show model.png)
+
+### Current News Sources
+![Sources](screenshots/footer.png)
