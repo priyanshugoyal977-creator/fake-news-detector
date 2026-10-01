@@ -2,4 +2,7 @@
 venv/
 __pycache__/
 *.pyc
+.env
+keys.py
+test_keys.py
 .streamlit/secrets.toml
