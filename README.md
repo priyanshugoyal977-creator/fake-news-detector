@@ -54,10 +54,12 @@ This model identifies patterns in a labeled dataset. It does not independently v
 ## 📸 Application Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+<img width="1515" height="716" alt="home" src="https://github.com/user-attachments/assets/f3faf945-99e1-4c16-b123-be54f71842dc" />
+
 
 ### News Analysis
-![News Analysis](screenshots/show model.png)
+<img width="1523" height="716" alt="show model" src="https://github.com/user-attachments/assets/4cf9938d-0f3d-4174-9043-9cbeb5595985" />
+
 
 ### Current News Sources
-![Sources](screenshots/footer.png)
+<img width="1523" height="713" alt="footer" src="https://github.com/user-attachments/assets/6a89acc2-5045-4950-8a9e-32f141fd90fc" />
